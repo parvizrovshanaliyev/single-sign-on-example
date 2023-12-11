@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GlOSqhgqIYsoB/wSwoGDwQUQ7cx2MFvcNPhx6vhnv+5a3Xt1xNAIyNx3VtM98haWH34aidgHrnOHTmeHg5ys0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parviz.a\\Documents\\Github\\microservice-examples\\single-sign-on-example\\Back-End-Apps\\src\\SSO.MVC.App\\SSO.MVC.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parviz.a\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.3\\microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
+    "C:\\Users\\parviz.a\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.3\\microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\parviz.a\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.3\\microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "C:\\Users\\parviz.a\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.3\\microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\parviz.a\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.3\\system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
